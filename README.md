@@ -186,4 +186,6 @@ Output: Downloads "file.zip" from the specified URL.
 ![output](/2.2.png)
 ![output](/2.3.png)
 ![output](/2.4.png)
-RESULT:
+
+## RESULT:
+This implies that you have acquired a foundational understanding of UNIX commands and have successfully carried out their execution.
